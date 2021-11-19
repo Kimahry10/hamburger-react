@@ -36,11 +36,11 @@ const Hamburger = styled.div`
 }
 
 .menu-btn__burger::before {
-  transform: translateY(-1rem);
+  transform: translateY(-0.7rem);
 }
 
 .menu-btn__burger::after {
-  transform: translateY(1rem);
+  transform: translateY(0.7rem);
 }
 
 /* animation */
